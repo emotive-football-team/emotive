@@ -1,0 +1,3335 @@
+/*========================================================*/
+
+
+/*====================== RESPONSIVE ======================*/
+
+
+/*========================================================*/
+
+
+/*========== 1600 ==========*/
+
+@media all and (min-width: 0px) and (max-width: 1600px) {
+    /*========== HEADER ===========*/
+    /*========== HEADER NAV TOP ==========*/
+  header nav.header-top-screen ul.icon-menu li:hover p {
+    margin-top: 21px;
+}
+  .notif-here #bulle-menu-3{
+  margin-left: -44px!important;
+}
+  #wrap-news-notif{left: -150px;}
+  .open-notif{top: 41px!important;}
+    #single-article .same-height, #single-joueur .same-height{height: 50px;}
+    .nav-fcnantes img {
+        width: 50px!important;
+    }
+    header nav .item-nav #name-button-burger-nav {
+        font-size: 14px!important;
+    }
+    .nav-fcnantes #name-nav {
+        font-size: 20px!important;
+    }
+    header nav.header-top-screen .nav-other ul {
+        font-size: 12px;
+    }
+    header nav.header-top-screen ul.icon-menu li p#bulle-menu-1 {
+        margin-left: -70px;
+    }
+    header nav.header-top-screen ul.icon-menu li p#bulle-menu-2 {
+        margin-left: -19.5px;
+    }
+    header nav.header-top-screen ul.icon-menu li p#bulle-menu-3 {
+        margin-left: -35px;
+    }
+  p#bulle-menu-3.not-notif-here {
+    margin-left: -56px!important;
+}
+    header nav.header-top-screen ul.icon-menu li p#bulle-menu-4 {
+        margin-left: -30px;
+    }
+    /*========== FOOTER ===========*/
+    /*========== PARTENAIRES ==========*/
+    /*========== FOOTER NAV ==========*/
+    footer nav {
+        padding: 65px 15% 90px 15%;
+    }
+    footer nav ul li {
+        margin: 15px 0px;
+    }
+    footer nav ul li a {
+        font-size: 14px;
+    }
+    footer .copyright {
+        font-size: 14px;
+    }
+    /*========== ACCUEIL ==========*/
+    /*========== SLIDESHOW ==========*/
+    .content-slideshow {
+        width: 650px;
+    }
+    .content-slideshow span {
+        font-size: 16px;
+    }
+    .content-slideshow h1 {
+        font-size: 45px;
+    }
+    .content-slideshow a {
+        font-size: 13px;
+    }
+    /*========== ACTUALITES ==========*/
+    /*========== ACTUALITES MISE EN AVANT ==========*/
+    #border-first-news-block {
+        border: solid 7px #ffdc12;
+    }
+    section.home-curent-news .home-curent-news-left article#first-news-block .content-curent-news-block {
+        width: 58%;
+    }
+    .content-block-news-white h2,
+    .content-block-news-white span {
+        left: -60px;
+    }
+    section.home-curent-news article span {
+        font-size: 12px;
+        line-height: 14px;
+    }
+    section.home-curent-news article h2 {
+        font-size: 17px;
+        line-height: 17px;
+    }
+    section.home-curent-news article p {
+        font-size: 12px;
+        line-height: 13px;
+    }
+    aside.home-liste-news ul li .home-infos-news span {
+        font-size: 12px;
+        line-height: 14px;
+    }
+    /*========== ASIDE LISTE ACTUALITES ==========*/
+    aside.home-liste-news {
+        padding: 11.75px 50px 11.75px 0px;
+    }
+    aside.home-liste-news ul li {
+        padding: 6.75px 0px;
+    }
+    aside.home-liste-news ul li:hover {
+        left: 23px;
+    }
+    aside.home-liste-news ul li .home-infos-news {
+        margin-left: -8px;
+    }
+    aside.home-liste-news ul li .home-infos-news h2 {
+        font-size: 14px;
+        margin-bottom: 4px;
+        line-height: 16px;
+    }
+    aside.home-liste-news ul li .home-infos-news a {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    aside.home-liste-news ul li .home-date-news {
+        left: -22.5px;
+        padding: 10px 0px;
+        width: 45px;
+    }
+    aside.home-liste-news ul li .home-date-news .d-date-news {
+        font-size: 20px;
+    }
+    aside.home-liste-news ul li .home-date-news .date-alerte img {
+        width: 34px;
+    }
+    /*========== CLASSEMENT ==========*/
+    .zone-yellow {
+        height: 200px;
+        top: 112px;
+    }
+    .home-calendrier .carousel-calendrier .owl-prev {
+        height: 200px;
+    }
+    .home-classement-title h3 {
+        font-size: 14px;
+    }
+    .home-calendrier .carousel-calendrier .event p.home-calendrier-date {
+        font-size: 13px;
+        top: 0px;
+    }
+    .home-classement-title hr {
+        height: 1px;
+        top: 3px;
+    }
+    .carousel-calendrier .event img {
+        width: 80px!important;
+        margin-bottom: 15px!important;
+    }
+    .home-classement-position {
+        font-size: 25px;
+        width: 47px;
+        top: -30.5px;
+    }
+    span.date-calendrier {
+        font-size: 25px;
+    }
+    .home-classement-position span {
+        font-size: 10px;
+    }
+    .home-calendrier .carousel-calendrier .event p.home-classement-versus {
+        font-size: 15px;
+    }
+    .home-calendrier .carousel-calendrier .event p.home-classement-versus span {
+        font-size: 10px;
+    }
+    .home-classement-calendrier .home-classement .home-classement-content .home-classement-score a,
+    .carousel-calendrier .event a {
+        top: 9px;
+        font-size: 11px;
+        padding: 5px 15px;
+    }
+    .carousel-calendrier .fin-classement {
+        height: 268px!important;
+    }
+    /* CALENDRIER */
+    .home-classement-calendrier .home-classement .home-classement-content .home-classement-score .home-classement-score-info {
+        font-size: 22px;
+        margin-top: 10px;
+    }
+    .home-classement-calendrier .home-classement .home-classement-content .home-classement-score .home-classement-score-info p {
+        font-size: 10px;
+    }
+    .home-classement-calendrier .home-classement .home-classement-content .home-classement-score ul {
+        font-size: 12px;
+        margin: 24px 0px 23px 0px;
+    }
+    /*========== CATEGORY ==========*/
+    #home-section5 .home-curent-news article h2 {
+        font-size: 30px;
+        line-height: 26px;
+    }
+    #home-section5 .home-curent-news article h3 {
+        font-size: 12px;
+        line-height: 14px;
+    }
+    /* NEWSLETTER */
+    #home-section8 .zone-yellow {
+        top: 113px;
+    }
+    #home-section8 .home-classement-content {
+        height: 250px;
+    }
+    #home-section8 p {
+        line-height: 1.2em;
+        font-size: 12px;
+    }
+    #home-section8 .home-calendrier.zone-pub-newsletter .home-classement-content {
+        margin-top: 65px!important;
+    }
+    /*========== HEADER ===========*/
+    section.menu-full .header-full-screen img {
+        width: 20px;
+    }
+    section.menu-full .all-ellements-menu nav h2 {
+        font-size: 25px;
+    }
+    section.menu-full .all-ellements-menu nav ul {
+        margin-bottom: 25px;
+    }
+    section.menu-full .all-ellements-menu nav li {
+        padding-left: 18px;
+        line-height: 15px;
+    }
+    section.menu-full .all-ellements-menu nav li a {
+        font-size: 14px;
+        font-weight: 300;
+    }
+    section.menu-full .menu-social-sidebar {
+        padding: 0px 65px;
+    }
+    section.menu-full .menu-social-sidebar ul li img {
+        width: 20px;
+    }
+    header nav.header-top-screen ul.icon-menu li svg {
+        height: 20px;
+    }
+  
+  #go-home {
+    top: calc(31% - 82px)!important;
+}
+    /* CATEGORI ACTU */
+    .cut-anim.new-cate-image h1 {
+        bottom: 40px;
+        font-size: 50px;
+    }
+    .category-news .block-ancre-actu {
+        width: 60px;
+        height: 60px;
+        top: calc(84vh - 30px);
+        left: calc(50% - 30px);
+    }
+    .category-news .block-ancre-actu img {
+        width: 25px;
+    }
+    /* Single actu */
+    #single .single-content {
+        padding-top: 64px;
+    }
+    .single-content .title-single-content a{
+         top: -37.5px;
+    }
+    .single-content .title-single-content img {
+       
+        width: 75px;
+    }
+    .single-content .title-single-content p {
+        font-size: 14px;
+    }
+    .single-content .title-single-content h1 {
+        font-size: 44px;
+    }
+    .single-content .title-single-content h2 {
+        font-size: 14px;
+        line-height: 1.3em;
+    }
+    .single-content p.chapeau-single-content {
+        line-height: 20px;
+        font-size: 16px;
+    }
+    .text,
+    .single-content .content-single-content {
+        line-height: 18px;
+        font-size: 14px;
+    }
+    .single-content aside article.news-white {
+        height: 270px;
+    }
+    .zone-pub-newsletter a {
+        margin-top: 30px;
+    }
+    .single-content aside {
+        margin-top: 50px;
+    }
+    .share-social {
+        left: calc(100% - 25px)!important;
+        width: 50px!important;
+        height: 50px!important;
+    }
+    #single-article-full .share-social {
+        top: -25px;
+    }
+    .share-social img#open-share {
+        width: 50px!important;
+        height: 50px!important;
+        padding: 13px!important;
+    }
+    .single-content .content-single-content h2 {
+        font-size: 32px;
+    }
+    .single-content .content-single-content h4 {
+        font-size: 24px;
+        line-height: 1em;
+    }
+    .single-content aside article.news-white h2 {
+        font-size: 17px;
+    }
+    .single-content aside article.news-white span {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    aside .zone-pub-newsletter .all-next-matche {
+        margin-top: 65px;
+    }
+    aside .zone-pub-newsletter .all-next-matche .next-matche img {
+        width: 100px;
+        top: -50px;
+        margin-bottom: -50px;
+    }
+    aside .zone-pub-newsletter .all-next-matche .next-matche p.title-next-matche {
+        font-size: 17px;
+        margin: 15px 0px 5px;
+    }
+    aside .zone-pub-newsletter .all-next-matche .next-matche p.title-next-equipe {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    aside .zone-pub-newsletter .all-next-matche .next-matche p.title-next-date {
+        margin-bottom: 0px;
+    }
+    aside .zone-pub-newsletter .all-next-matche .next-matche p.title-next-prix {
+        margin-bottom: 10px;
+    }
+    aside .zone-pub-newsletter .all-next-matche .next-matche a {
+        top: 19.5px;
+        font-size: 14px;
+        padding: 8px 20px;
+    }
+    .share-social .jssocials-shares .jssocials-share {
+        margin-top: -55px;
+    }
+    .jssocials-share-link {
+        width: 50px;
+        height: 50px;
+    }
+    /* Categorie joueurs */
+    .all-effectifs .zone-joueurs {
+        padding: 65px 15% 65px 13%;
+    }
+    .all-effectifs .zone-joueurs .title-zone-joueurs {
+        right: -10px;
+    }
+    .all-effectifs .zone-joueurs .title-zone-joueurs .content-title-joueur p {
+        font-size: 20px;
+    }
+    .all-effectifs .zone-joueurs .title-zone-joueurs .content-title-joueur hr {
+        width: 65px;
+    }
+    .millieux_de_terrain .content-title-joueur p {
+        width: 201px;
+    }
+    .meilleur-joueurs li {
+        padding: 15px;
+    }
+    .meilleur-joueurs li img {
+        width: 30px;
+    }
+    .meilleur-joueurs li p {
+        top: 60px;
+    }
+    .meilleur-joueurs li:nth-child(1) p {
+        left: -39px;
+    }
+    .meilleur-joueurs li:nth-child(2) p {
+        left: -39px;
+    }
+    .meilleur-joueurs li:nth-child(3) p {
+        left: -27px;
+    }
+    p.exploit-joueur span.count2,
+    p.exploit-joueur span.count,
+    p.exploit-joueur span.count3 {
+        font-size: 80px!important;
+        min-width: auto;
+    }
+    p.exploit-joueur span {
+        font-size: 12px!important;
+    }
+    h2.name-best-joueur {
+        font-size: 45px;
+    }
+    .meilleur-joueurs {
+        top: -30px;
+    }
+    /* Catégories medias */
+    .content-curent-news-block {
+        padding: 25px;
+    }
+    .cut-anim.new-cate-image h1 img {
+        width: 60px;
+    }
+    .flex-picto-media img {
+        width: 110px;
+    }
+    .l-cate-medias article img {
+        width: 60px;
+    }
+    .content-curent-news-block h3,
+    .video-voir h3 {
+        font-size: 17px;
+        line-height: 17px;
+    }
+    .content-curent-news-block span,
+    .video-voir span {
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .content-curent-news-block p,
+    .video-voir p {
+        font-size: 12px;
+        line-height: 13px;
+    }
+    /* Single joueur */
+    .identite-joueur .num_maillot {
+        font-size: 100px!important;
+        margin-bottom: 2px!important;
+    }
+    .block-infos-joueur .infos-joueur {
+        line-height: 1.3em!important;
+        font-size: 18px!important;
+    }
+    .record-joueur .progressbar-text {
+        font-size: 45px;
+        top: -13px!important;
+    }
+    .record-joueur span {
+        font-size: 14px;
+    }
+
+    .nom-joueur-rotate {
+        font-size: 60px;
+    }
+    #container-2 {
+        margin: 0px 20%!important;
+    }
+    /*Calendrier */
+    .calendrier-page .category-news .block-ancre-actu {
+        top: -30px!important;
+    }
+  
+  #home-section5 aside.home-aside-pub .home-aside-single-pub{    font-size: 12px;
+    line-height: 13px;}
+  #home-section5 aside.home-aside-pub a {border: solid 2px #ffdd11;    padding: 2px 38px;
+    font-size: 10px;}
+  #home-section5 aside.home-aside-pub .title-next-equipe {margin-top: 6px;}
+  #home-section5 .content-bouton-pub {bottom: 30px;}
+}
+
+
+/*========== 1440 ==========*/
+
+@media all and (min-width: 0px) and (max-width: 1440px) {
+    /*========== FOOTER ===========*/
+    /*========== PARTENAIRES ==========*/
+    .bandeauPartenaires .owl-carousel.owl-drag .owl-item {
+        padding: 0px 20px!important;
+    }
+    /*========== FOOTER NAV ==========*/
+    footer nav {
+        padding: 60px 15% 85px 15%;
+    }
+    footer nav ul li {
+        margin: 12.5px 0px;
+    }
+    footer nav ul li a {
+        font-size: 12px;
+    }
+    footer .copyright {
+        font-size: 12px;
+    }
+    /*========== ACCUEIL ==========*/
+    /*========== SLIDESHOW ==========*/
+    .content-slideshow {
+        width: 600px;
+    }
+    .content-slideshow span {
+        font-size: 15px;
+    }
+    .content-slideshow h1 {
+        font-size: 41px;
+    }
+    .content-slideshow a {
+        font-size: 12px;
+        padding: 8px 77.5px;
+    }
+    /*========== ACTUALITES ==========*/
+    /*========== ACTUALITES MISE EN AVANT ==========*/
+    section.home-curent-news .home-curent-news-left article#first-news-block .content-curent-news-block {
+        padding: 25px;
+    }
+    section.home-curent-news article h2 {
+        font-size: 14px;
+        line-height: 15px;
+    }
+    /*========== ASIDE LISTE ACTUALITES ==========*/
+    aside.home-liste-news ul li .home-infos-news h2 {
+        font-size: 14px;
+    }
+    /*aside.home-liste-news ul li .home-infos-news span{font-size: 14px;line-height: 16px;}*/
+    a.home-all-category {
+        width: 213px;
+        bottom: 97px;
+        right: -130px;
+    }
+    a.home-all-category hr {
+        height: 1px;
+    }
+    a.home-all-category span {
+        font-size: 12px;
+        width: 95px;
+    }
+  
+  .back-news a{font-size: 12px;}
+  .back-news a span{width: 202px;}
+  .back-news a hr{height: 1px;width: calc(100% - 217px);}
+  
+    span.date-alerte {
+        margin-bottom: 0px!important;
+    }
+    span.date-alerte img {
+        width: 31px!important;
+    }
+    section.home-curent-news article p {
+        margin-top: 10px;
+    }
+    aside.home-liste-news ul li:hover {
+        left: 20px;
+    }
+    aside.home-liste-news ul li .home-infos-news {
+        margin-left: -7px;
+    }
+    aside.home-liste-news ul li .home-infos-news h2 {
+        margin-bottom: 3px;
+        line-height: 14px;
+    }
+    aside.home-liste-news ul li .home-infos-news a {
+        font-size: 12px;
+        line-height: 12.5px;
+    }
+    aside.home-liste-news ul li .home-date-news {
+        left: -20px;
+        padding: 9px 0px;
+        width: 40px;
+    }
+    aside.home-liste-news ul li .home-date-news .d-date-news {
+        font-size: 17px;
+        margin-bottom: -10px;
+    }
+    /*========== CLASSEMENT==========*/
+    .zone-yellow {
+        height: 185px;
+        top: 104px;
+    }
+    .home-calendrier .carousel-calendrier .owl-prev {
+        height: 153px;
+    }
+    .home-classement-title h3, .single-content aside article.news-white span {
+        font-size: 12px;
+    }
+    .home-calendrier .carousel-calendrier .event p.home-classement-versus span {
+        font-size: 8px;
+    }
+    .home-classement-position {
+        font-size: 20px;
+        width: 38px;
+    }
+    .home-classement-position span {
+        margin-top: -8px;
+    }
+    span.date-calendrier {
+        font-size: 20px;
+    }
+    .home-calendrier .carousel-calendrier .event p.home-calendrier-date {
+        font-size: 11px;
+    }
+    .carousel-calendrier .event img {
+        width: 65px!important;
+    }
+    .home-classement-calendrier .home-classement .home-classement-content .home-classement-score a,
+    .carousel-calendrier .event a {
+        top: 10.5px;
+        font-size: 12px;
+        padding: 4px 12px;
+    }
+    .home-classement-title hr {
+        top: 0px;
+    }
+    .home-classement-calendrier .home-classement .home-classement-content {
+        margin-top: 50px;
+    }
+    .carousel-calendrier .fin-classement {
+        height: 246px!important;
+    }
+    .carousel-calendrier .fin-classement-1 a {
+        top: 9px!important;
+    }
+    .carousel-calendrier .fin-classement-2 a {
+        top: 9px!important;
+    }
+    .carousel-calendrier .fin-classement-3 a {
+        top: 9px!important;
+    }
+    .carousel-calendrier .fin-classement-4 a {
+        top: 9px!important;
+    }
+    .home-classement-content {
+        /*height: 246px;*/
+    }
+    .home-calendrier .carousel-calendrier {
+        margin-top: 10px;
+    }
+    .home-classement-calendrier .home-classement .home-classement-content .home-classement-score {
+        margin-top: 4px;
+    }
+    .home-classement-calendrier .home-classement .home-classement-content .home-classement-score .home-classement-score-info {
+        font-size: 20px;
+        margin-top: 5px;
+    }
+    .home-classement-calendrier .home-classement .home-classement-content .home-classement-score .home-classement-score-info p {
+        font-size: 10px;
+        margin-top: -6px;
+    }
+    .home-classement-calendrier .home-classement .home-classement-content .home-classement-score ul {
+        font-size: 12px;
+        margin: 16px 0px 16.5px 0px;
+    }
+    .home-news {
+        margin-bottom: 60px;
+    }
+    .home-classement-calendrier {
+        margin-bottom: 21px;
+    }
+    /*========== CATEGORY ==========*/
+    #home-section5 .home-curent-news article h2 {
+        font-size: 26px;
+        line-height: 24px;
+    }
+    /*========== MEDIAS ==========*/
+    .home-medias .home-media-aside-plus a img {
+        width: 50px;
+    }
+    aside.home-aside-pub .home-aside-single-pub {
+        padding: 10px;
+        height: calc(33.333% - 50px);
+    }
+    .home-medias .home-medias-aside-next .bdb h2 {
+        font-size: 13px;
+    }
+    /*========== NEWSLETTER ==========*/
+    #home-section8 {
+        margin-bottom: 70px;
+    }
+    #home-section8 .home-classement-content {
+        height: 225px;
+    }
+    #home-section8 .zone-yellow {
+        top: 93px;
+    }
+    #home-section8 .home-classement-position {
+        width: 61px;
+        padding: 15px;
+    }
+    #home-section8 form input {
+        margin: 10px 0px;
+    }
+    #home-section8 form input[type="submit"] {
+        bottom: -23px;
+        font-size: 12px;
+        padding: 4px 12px;
+        width: 150px;
+        left: calc(50% - 75px);
+    }
+    #accueil .zone-pub-newsletter .home-classement-content img {
+        margin-top: 0px!important;
+    }
+    .zone-pub-newsletter .home-classement-content img {
+        margin-top: 30px!important;
+    }
+    #home-section8 .home-calendrier.zone-pub-newsletter .home-classement-content {
+        margin-top: 50px!important;
+    }
+    /*========== SINGLE 50% ==========*/
+    .single-content .title-single-content a{
+         top: -32.5px;
+    }
+    .single-content .title-single-content img {
+       
+        width: 65px;
+    }
+    .single-content .title-single-content p {
+        font-size: 12px;
+    }
+    .single-content .title-single-content h1,
+    #single-full .single-content .title-single-content h1 {
+        font-size: 40px;
+    }
+    .single-content p.chapeau-single-content {
+        font-size: 15px;
+    }
+    .single-content .content-single-content h2 {
+        font-size: 28px;
+    }
+    .single-content .content-single-content h3 {
+        font-size: 22px;
+    }
+    .single-content .content-single-content h4 {
+        font-size: 22px;
+    }
+    .single-content .paragraphe-single-content h3 {
+        font-size: 30px;
+    }
+    .single-content .paragraphe-single-content h4 {
+        font-size: 20px;
+    }
+    .single-content aside article.news-white {
+        height: 240px;
+    }
+    .single-content aside article.news-white h2 {
+        font-size: 20px;
+        line-height: 1em;
+    }
+    aside .zone-pub-newsletter .all-next-matche {
+        margin-top: 60px;
+    }
+    aside article.news-white {
+        margin-top: 30px;
+    }
+    aside .zone-pub-newsletter .all-next-matche .next-matche p.title-next-matche {
+        font-size: 16px;
+    }
+    aside .zone-pub-newsletter .all-next-matche .next-matche p.title-next-equipe {
+        font-size: 13px;
+    }
+    /*========== SINGLE 100% ==========*/
+    #single-full .cut-anim {
+        height: 620px;
+    }
+    /* CATEGORIE NEWS */
+    .cut-anim.new-cate-image {
+        height: 76vh;
+    }
+    .cut-anim.new-cate-image h1 {
+        bottom: 35px;
+        font-size: 45px;
+    }
+    .category-news .block-ancre-actu {
+        width: 54px;
+        height: 54px;
+        top: calc(76vh - 27px);
+        left: calc(50% - 27px);
+    }
+    .category-news .block-ancre-actu img {
+        width: 18px;
+    }
+    /* Categorie joueur */
+    .all-effectifs .zone-joueurs {
+        padding: 65px 15% 65px 12.5%;
+    }
+    .all-effectifs .zone-joueurs .title-zone-joueurs .content-title-joueur hr {
+        height: 1px;
+        bottom: 9px;
+    }
+    .all-effectifs .zone-joueurs .title-zone-joueurs {
+        right: -15px;
+    }
+    .all-effectifs .zone-joueurs .title-zone-joueurs .content-title-joueur p {
+        font-size: 18px;
+    }
+    p.exploit-joueur span.count2,
+    p.exploit-joueur span.count,
+    p.exploit-joueur span.count3 {
+        font-size: 70px!important;
+    }
+    h2.name-best-joueur {
+        font-size: 40px;
+    }
+    p.exploit-joueur span {
+        bottom: -34px!important;
+    }
+    .content-joueur-select span img {
+        width: 22px;
+        vertical-align: middle!important;
+    }
+    .millieux_de_terrain .content-title-joueur p {
+        width: 181px;
+    }
+    /* Catégorie media */
+    .cut-anim.new-cate-image h1 img {
+        left: -80px;
+        width: 55px;
+    }
+    .flex-picto-media img {
+        width: 95px;
+    }
+    .l-cate-medias article img {
+        width: 55px;
+    }
+    .content-curent-news-block h3,
+    .video-voir h3 {
+        font-size: 14px;
+        line-height: 15px;
+    }
+    .content-curent-news-block p,
+    .video-voir p {
+        margin-top: 10px;
+    }
+    /* Single joueur */
+    .identite-joueur .num_maillot {
+        font-size: 85px!important;
+    }
+    .block-infos-joueur .infos-joueur {
+        font-size: 16px!important;
+    }
+    .nom-joueur-rotate {
+        font-size: 55px;
+    }
+    .record-joueur .progressbar-text {
+        font-size: 40px;
+    }
+    .record-joueur span {
+        font-size: 12px;
+    }
+    #container-2 {
+        margin: 0px 17%!important;
+    }
+    /*Calendrier */
+    .calendrier-page .category-news .block-ancre-actu {
+        top: -27px!important;
+    }
+  
+  #home-section5 .content-bouton-pub {bottom: 15px;}
+  #home-section5 aside.home-aside-pub .title-next-equipe {
+    margin-top: 12px;
+}
+  
+  a.all-category-single-aside{right: -147px;bottom: 100px!important;}
+}
+
+
+/*========== 1366 ==========*/
+
+@media all and (min-width: 0px) and (max-width: 1366px) {
+    /*========== HEADER ===========*/
+    header nav.header-top-screen ul.icon-menu li:hover p {
+    margin-top: 16px;
+}
+  .open-notif {
+    top: 36px!important;
+}
+    #single-article .same-height, #single-joueur .same-height{height: 40px;}
+    section.menu-full .all-ellements-menu nav ul {
+        margin-bottom: 15px;
+    }
+    section.menu-full .all-ellements-menu nav h2 {
+        font-size: 20px;
+    }
+    section.menu-full .all-ellements-menu nav ul li {
+        line-height: 14px;
+    }
+    section.menu-full .all-ellements-menu nav ul li a {
+        font-size: 12px;
+    }
+    /*========== HEADER NAV TOP ==========*/
+    .nav-fcnantes img {
+        width: 40px!important;
+    }
+    header nav .item-nav #name-button-burger-nav {
+        font-size: 12px!important;
+    }
+    .nav-fcnantes #name-nav {
+        font-size: 16px!important;
+    }
+    header nav.header-top-screen ul.icon-menu li img {
+        height: 18px;
+        width: auto!important;
+    }
+    header nav.header-top-screen ul.icon-menu li svg {
+        height: 20px;
+    }
+    header nav.header-top-screen .nav-other ul {
+        font-size: 12px;
+    }
+    /*========== FOOTER ===========*/
+    /*========== PARTENAIRES ==========*/
+    .bandeauPartenaires .event {
+        width: 122px;
+    }
+    .bandeauPartenaires a {
+     height: auto!important;
+    }
+
+    /*========== FOOTER NAV ==========*/
+    footer nav {
+        padding: 55px 15% 80px 15%;
+    }
+    footer nav ul li {
+        margin: 12px 0px;
+    }
+    footer nav ul li a {
+        font-size: 11px;
+    }
+    footer .copyright {
+        font-size: 11px;
+    }
+    /*========== ACCUEIL ==========*/
+    /*========== SLIDESHOW ==========*/
+    .content-slideshow {
+        width: 550px;
+    }
+    .content-slideshow h1 {
+        font-size: 37px;
+    }
+    /*.home-slideshow .content-slideshow span{font-size: 14px;}*/
+    .content-slideshow a {
+        font-size: 10px;
+        padding: 7.5px 70px;
+    }
+    /*========== ACTUALITES ==========*/
+    /*========== ACTUALITES MISE EN AVANT ==========*/
+    section.home-curent-news article span {
+        line-height: 11px;
+    }
+    #border-first-news-block {
+        top: -20px!important;
+        left: -20px!important;
+    }
+    /*========== ASIDE LISTE ACTUALITES ==========*/
+    aside.home-liste-news {
+        padding: 7.25px 35px 7.25px 0px;
+    }
+    aside.home-liste-news ul li {
+        padding: 5.75px 0px;
+    }
+    aside.home-liste-news ul li:hover {
+        left: 18px;
+    }
+    aside.home-liste-news ul li .home-infos-news h2 {
+        font-size: 12px;
+        margin-bottom: 1px;
+        line-height: 13px;
+    }
+    aside.home-liste-news ul li .home-infos-news span {
+        font-size: 12px;
+        line-height: 13px;
+    }
+    aside.home-liste-news ul li .home-date-news {
+        left: -18px;
+        padding: 7.5px 0px;
+        width: 36px;
+    }
+    aside.home-liste-news ul li .home-date-news .d-date-news {
+        font-size: 16px;
+        margin-bottom: -8px;
+    }
+    a.home-all-category {
+        width: 200px;
+        bottom: 90px;
+        right: -125px;
+    }
+  
+    .back-news a hr{margin-left: 5px;    width: calc(100% - 207px);}
+    a.home-all-category span {
+        font-size: 12px;
+    }
+    a.home-all-category hr {
+        width: calc(100% - 115px);
+        margin-left: 5px;
+    }
+    /*========== CLASSEMENT==========*/
+    .zone-yellow {
+        height: 150px;
+        top: 111.5px;
+    }
+    .home-calendrier .carousel-calendrier .owl-prev {
+        height: 150px;
+    }
+    .home-classement-position {
+        width: 37px;
+        font-size: 19px;
+    }
+    span.date-calendrier {
+        font-size: 19px;
+    }
+    .home-calendrier .carousel-calendrier .event p.home-calendrier-date {
+        top: -2px!important;
+    }
+    .home-calendrier .carousel-calendrier .event p.home-classement-versus {
+        font-size: 14px;
+    }
+    .carousel-calendrier .event img {
+        width: 55px!important;
+        margin-bottom: 10px!important;
+    }
+    .home-classement-content {
+       /* height: 227px;*/
+    }
+    .home-classement-calendrier .home-classement .home-classement-content .home-classement-score ul {
+        margin: 12px 0px 12.5px 0px;
+    }
+    .home-classement-calendrier .home-classement .home-classement-content .home-classement-score ul li {
+        padding: 1px;
+    }
+    .carousel-calendrier .fin-classement {
+        height: 227px!important;
+    }
+    .home-classement-calendrier .home-classement .home-classement-content .home-classement-score .home-classement-score-info {
+        margin-top: 4px;
+    }
+    /*========== CATEGORY ==========*/
+    #home-section5 .home-curent-news article h2 {
+        font-size: 23px;
+        line-height: 20px;
+    }
+    aside.home-aside-pub .home-aside-single-pub {
+        padding: 10px;
+        height: calc(33.333% - 50px);
+    }
+    /*========== IMAGES VIDEOS ==========*/
+    .home-medias .home-media-aside-plus a img {
+        width: 40px;
+    }
+    .home-medias .home-medias-aside-next h2 {
+        font-size: 12px;
+    }
+    .home-medias .home-medias-aside-next .bdb h2 {
+        font-size: 12px;
+    }
+    /*========== NEWSLETTER ==========*/
+    #home-section8 p {
+        width: 290px;
+        font-size: 12px;
+        line-height: 1.2;
+    }
+    #home-section8 .home-classement-content {
+        height: 213px;
+    }
+    #home-section8 form input {
+        font-size: 12px;
+    }
+    #home-section8 .zone-yellow {
+        top: 104.5px!important;
+    }
+    /* CATEGORY NEWS */
+    .cut-anim.new-cate-image {
+        height: 87vh!important;
+    }
+    .cut-anim.new-cate-image h1 {
+        font-size: 43px;
+    }
+    .category-news .block-ancre-actu {
+        width: 44px;
+        height: 44px;
+        top: calc(87vh - 22px);
+        left: calc(50% - 22px);
+    }
+    /* Single news */
+    .single-content .title-single-content p {
+        font-size: 10px;
+    }
+    .single-content .title-single-content a{
+           top: -30px;
+}
+    .single-content .title-single-content img {
+     
+        width: 60px;
+    }
+    .share-social {
+        left: calc(100% - 22px)!important;
+        width: 44px!important;
+        height: 44px!important;
+    }
+    #single-article-full .share-social {
+        top: -22px;
+    }
+    .share-social img#open-share {
+        width: 44px!important;
+        height: 44px!important;
+        padding: 10px!important;
+    }
+    .single-content .title-single-content h1,
+    #single-full .single-content .title-single-content h1 {
+        font-size: 38px;
+    }
+    .single-content .title-single-content h2 {
+        font-size: 12px;
+    }
+    .single-content p.chapeau-single-content {font-size: 13px;}
+    .block-infos-joueur p.chapeau-single-content {font-size: 13px!important;}
+  
+    .text,
+    .single-content .content-single-content {
+        line-height: 16px;
+        font-size: 13px;
+    }
+    .single-content .content-single-content h2 {
+        font-size: 24px;
+    }
+    .single-content .content-single-content h3 {
+        font-size: 20px;
+    }
+    .single-content .content-single-content h4 {
+        font-size: 20px;
+    }
+    .single-content aside article.news-white h2 {
+        font-size: 14px;
+    }
+    .single-content aside article.news-white span {
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .single-content aside article.news-white {
+        height: 230px;
+    }
+    .single-content aside article.news-white,
+    .zone-pub-newsletter a {
+        margin-top: 20px;
+    }
+    #accueil .zone-pub-newsletter .home-classement-content img {
+        margin-top: 0px!important;
+    }
+  .zone-pub-newsletter .home-classement-content img {
+        margin-top: 20px!important;
+    }
+    aside .zone-pub-newsletter .all-next-matche .next-matche img {
+        width: 80px;
+        top: -40px;
+        margin-bottom: -40px;
+    }
+    aside .zone-pub-newsletter .all-next-matche .next-matche p.title-next-matche {
+        font-size: 14px;
+    }
+    aside .zone-pub-newsletter .all-next-matche .next-matche p.title-next-equipe {
+        font-size: 12px;
+    }
+    aside .zone-pub-newsletter .all-next-matche .next-matche a {
+        top: 17.5px;
+        font-size: 12px;
+        padding: 8px 12px;
+    }
+    aside .zone-pub-newsletter .all-next-matche {
+        margin-top: 50px;
+    }
+    .share-social .jssocials-shares .jssocials-share {
+        margin-top: -49px;
+    }
+    .jssocials-share-link {
+        width: 44px;
+        height: 44px;
+    }
+    .share-social .jssocials img {
+        width: 18px;
+    }
+    #home-section7 .home-classement-title hr {
+        top: 8px;
+    }
+    .single-new-galerie .owl-nav .owl-prev img,
+    .single-new-galerie .owl-nav .owl-next img {
+        width: 10px;
+        padding: 12px;
+    }
+    .single-new-galerie .owl-nav .owl-next img {
+        margin-right: -17px;
+    }
+    .single-new-galerie .owl-nav .owl-prev img {
+        margin-left: -17px;
+    }
+    /* Categorie joueur */
+    .all-effectifs .zone-joueurs .title-zone-joueurs .content-title-joueur p {
+        font-size: 16px;
+    }
+    .all-effectifs .zone-joueurs .title-zone-joueurs .content-title-joueur hr {
+        height: 1px;
+    }
+    .all-effectifs .zone-joueurs .title-zone-joueurs {
+        right: -10px;
+    }
+    .meilleur-joueurs {
+        top: -25px;
+    }
+    .meilleur-joueurs li {
+        padding: 13px;
+    }
+    .meilleur-joueurs li img {
+        width: 24px;
+    }
+    .meilleur-joueurs li p {
+        top: 50px;
+    }
+    .meilleur-joueurs li:nth-child(1) p {
+        left: -44px;
+    }
+    .meilleur-joueurs li:nth-child(2) p {
+        left: -44px;
+    }
+    .meilleur-joueurs li:nth-child(3) p {
+        left: -32px;
+    }
+    .ancre-sous-menu-joueurs {
+        position: absolute;
+        top: -50px;
+    }
+    .millieux_de_terrain .content-title-joueur p {
+        width: 161px;
+    }
+    /* Ctégorie media */
+    .content-curent-news-block span,
+    .video-voir span {
+        line-height: 11px;
+    }
+    .flex-picto-media img {
+        width: 85px;
+    }
+    .l-cate-medias article img {
+        width: 50px;
+    }
+    .cut-anim.new-cate-image h1 img {
+        left: -75px;
+        width: 50px;
+    }
+    /* Pagination */
+    .numero-pagination.courant-page {
+        width: 19px;
+    }
+    .pagination li {
+        font-size: 12px;
+    }
+    .numero-pagination.courant-page {
+        margin: 0px;
+    }
+    /* Single joueur */
+    .record-joueur .progressbar-text {
+        font-size: 37px;
+    }
+    .nom-joueur-rotate {
+        font-size: 50px;
+    }
+    .identite-joueur .num_maillot {
+        font-size: 80px!important;
+    }
+
+    .all-effectifs .menu-categorie-joueurs ul li a p span,
+    .ancre-joueur ul li a p span {
+        font-size: 12px;
+    }
+.ancre-joueur ul li {
+
+    margin: 10px auto;
+}
+    /* Single full */
+    #single-full .single-content {
+        width: 70%;
+    }
+    /*Calendrier */
+    .calendrier-page .category-news .block-ancre-actu {
+        top: -22px!important;
+    }
+    .all-effectifs .menu-categorie-joueurs ul li span, .ancre-joueur ul li span{font-size: 12px;padding-right: 5px;width: calc(100% - 16px);}
+    .all-effectifs .menu-categorie-joueurs ul li .little-point, .ancre-joueur ul li .little-point{width: 16px;height: 16px;}
+    .all-effectifs .menu-categorie-joueurs ul, .ancre-joueur ul{right: calc(-100% - -16px);}
+    
+    #single .share-social{top:33%;}
+    #go-home {
+    top: calc(29% - 30px)!important;
+}
+  
+  #home-section5 aside.home-aside-pub a {padding: 2px 33px;}
+  
+  a.all-category-single-aside{right: -138px;}
+}
+
+
+/*========== 1280 ==========*/
+
+@media all and (min-width: 0px) and (max-width: 1280px) {
+    /* partenaire */
+    .bandeauPartenaires .event {
+        margin: 10px 21px;
+    }
+.bandeauPartenaires2 {
+    display: block;
+    height: 320px;
+}
+.bandeauPartenaires2 .principaux {
+    width:60%;
+    padding-left: 20%;
+    margin:auto;
+}
+.bandeauPartenaires2 .officiels {
+    width:80%;
+    padding-left: 20%;
+    margin:auto;
+}
+
+    /*========== ACTUALITES ==========*/
+    .home-news {
+        width: 90%;
+    }
+    /*========== ACTUALITES MISE EN AVANT ==========*/
+    section.home-curent-news {
+        padding-right: 90px;
+    }
+    section.home-curent-news article p {
+        margin-top: 10px;
+    }
+    /*CLASSEMENT */
+    .home-classement-calendrier .home-classement .home-classement-content {
+        padding: 0px 25px;
+    }
+    /*========== CATEGORY ==========*/
+    #home-section5 .home-curent-news {
+        padding-left: 90px;
+    }
+    /*========== ARTICLES ==========*/
+    /*========== ASIDE ==========*/
+    aside .zone-pub-newsletter .all-next-matche .next-matche p.title-next-matche {
+        font-size: 14px;
+    }
+    aside .zone-pub-newsletter .all-next-matche .next-matche p.title-next-equipe {
+        font-size: 12px;
+    }
+    aside .zone-pub-newsletter .all-next-matche .next-matche:nth-child(1) {
+        margin-right: 5%;
+    }
+    aside .zone-pub-newsletter .all-next-matche .next-matche {
+        width: 47.5%;
+    }
+    /* CATEGORIE ACTU */
+    .cut-anim.new-cate-image h1 {
+        font-size: 40px;
+        bottom: 30px;
+    }
+    /* single news */
+    .single-content .title-single-content a{
+         top: -25px;
+    }
+    .single-content .title-single-content img {
+       
+        width: 55px;
+    }
+    .single-content .title-single-content h1,
+    #single-full .single-content .title-single-content h1 {
+        font-size: 36px;
+    }
+    .single-content .content-single-content h2 {
+        font-size: 22px;
+    }
+    .single-content .content-single-content h3 {
+        font-size: 18px;
+    }
+    .single-content .content-single-content h4 {
+        font-size: 18px;
+    }
+    .single-content aside article.news-white p {
+        margin-top: 10px;
+    }
+    .single-content aside article.news-white {
+        height: 210px;
+    }
+    aside .zone-pub-newsletter .all-next-matche .next-matche img {
+        width: 75px;
+        top: -37.5px;
+        margin-bottom: -37.5px;
+    }
+    aside .zone-pub-newsletter .all-next-matche .next-matche a {
+        top: 15.5px;
+        font-size: 12px;
+        padding: 6px 9px;
+    }
+    aside .zone-pub-newsletter .all-next-matche {
+        margin-top: 45px;
+    }
+    /* Ctaegorie joueur */
+    .all-effectifs .zone-joueurs {
+        padding: 60px 15% 60px 11.5%;
+    }
+    .all-effectifs .zone-joueurs .title-zone-joueurs {
+        right: -15px;
+    }
+    .all-effectifs .zone-joueurs .title-zone-joueurs .content-title-joueur hr {
+        width: 55px;
+    }
+    .all-effectifs .zone-joueurs ul li .info-joueur p.numero {
+        margin-bottom: 2px;
+    }
+    .all-effectifs .zone-joueurs ul li .info-joueur p.prenom {
+        ;
+        margin-bottom: 1px;
+    }
+    .content-joueur-select span img {
+        width: 19px;
+    }
+    .content-slideshow span {
+        font-size: 12px;
+    }
+    p.exploit-joueur span.count2,
+    p.exploit-joueur span.count,
+    p.exploit-joueur span.count3 {
+        font-size: 60px!important;
+    }
+    h2.name-best-joueur {
+        font-size: 35px;
+    }
+    p.exploit-joueur span {
+        font-size: 10px;
+        bottom: -31px!important;
+    }
+    /* Categorie media */
+    .l-cate-medias article img {
+        width: 45px;
+    }
+    .flex-picto-media img {
+        width: 80px;
+    }
+    /* single joueur */
+    .nom-joueur-rotate {
+        font-size: 45px;
+    }
+    .identite-joueur .num_maillot {
+        font-size: 75px!important;
+    }
+    .block-infos-joueur .infos-joueur {
+        font-size: 14px!important;
+    }
+    .record-joueur .progressbar-text {
+        font-size: 35px;
+        top: -10px!important;
+    }
+    .record-joueur span {
+        font-size: 10px;
+    }
+    .block-infos-joueur .infos-joueur {
+        padding-right: 5%!important;
+    }
+    #container-2 {
+        margin: 0px 10%!important;
+    }
+    /* calendrier */
+    .nextCalendrier,
+    .principalCalendrier {
+        width: calc(100% - 20px);
+    }
+    .content-all-calendar {
+        width: 100%;
+    }
+    .col1_calendrier {
+        width: calc(100% - 200px);
+    }
+  
+  #home-section5 aside.home-aside-pub a {
+    padding: 2px 28px;
+}
+  #home-section5 aside.home-aside-pub .next-matche img {
+    max-height: 50%;
+}
+}
+
+
+/*========== 1024 ==========*/
+
+@media all and (min-width: 0px) and (max-width: 1024px) {
+    /* Header */
+    section.menu-full .all-ellements-menu {
+        width: 60%;
+    }
+    /*========== ACCUEIL ==========*/
+    /*========== SLIDESHOW ==========*/
+    .content-slideshow h1 {
+        font-size: 30px;
+    }
+    /*.home-slideshow .content-slideshow span{font-size: 12px;}*/
+    .content-slideshow a {
+        padding: 6.5px 55px;
+    }
+    /*========== ACTUALITES ==========*/
+    .home-news,
+    .home-classement-calendrier {
+        width: 93%;
+    }
+    /*========== ACTUALITES MISE EN AVANT ==========*/
+    section.home-curent-news {
+        width: calc(100% - 24%);
+        padding-right: 80px;
+    }
+    section.home-curent-news article h2 {
+        font-size: 12px;
+        line-height: 14px;
+    }
+    section.home-curent-news article .content-block-news-white {
+        padding: 0px 10px;
+    }
+    #border-first-news-block {
+        border: solid 5px #ffdc12;
+    }
+    #border-first-news-block {
+        top: -15px!important;
+        left: -15px!important;
+    }
+    section.home-curent-news article p {
+        margin-top: 7.5px;
+    }
+    section.home-curent-news .home-curent-news-left article#first-news-block .content-curent-news-block {
+        height: 50%;
+        width: 65%;
+    }
+    /*========== ASIDE LISTE ACTUALITES ==========*/
+    aside.home-liste-news {
+        width: 24%;
+    }
+    aside.home-liste-news ul li .home-infos-news {
+        width: calc(100% - 40px);
+    }
+    a.home-all-category {
+        right: -123px;
+    }
+    /* Classement */
+    .home-classement-calendrier .home-classement .home-classement-content .home-classement-score .home-classement-score-info p {
+        font-size: 8px;
+    }
+    .carousel-calendrier .event a {
+        top: 9.5px;
+    }
+    .home-classement-calendrier .home-classement .home-classement-content .home-classement-score a {
+        top: 13px;
+    }
+    /* calendrier */
+    .select-calendrier .event,
+    .home-classement-calendrier .home-classement .home-classement-content,
+    .home-classement-calendrier .home-classement .home-classement-content {
+        box-shadow: 0px -5px 35px rgba(0, 17, 0, 0.25)!important;
+    }
+    /*========== CATEGORY ==========*/
+    #home-section5 .home-curent-news article h2 {
+        font-size: 18px;
+        line-height: 15px;
+    }
+    /* footer */
+
+    /*========== ARTICLE 50% ==========*/
+    .single-content .title-single-content h1,
+    #single-full .single-content .title-single-content h1 {
+        font-size: 28px;
+    }
+    .single-content .paragraphe-single-content h3 {
+        font-size: 21px;
+    }
+    .single-content .paragraphe-single-content h4 {
+        font-size: 17px;
+    }
+    .single-content aside article.news-white {
+        height: 180px;
+    }
+    .single-content aside article.news-white span {
+        font-size: 12px;
+        line-height: 19px;
+    }
+    /* CATEGORI ACTU */
+    .cut-anim.new-cate-image {
+        height: 65vh!important;
+    }
+    .cut-anim.new-cate-image h1 {
+        font-size: 33px;
+        bottom: 24px;
+    }
+    .category-news .block-ancre-actu {
+        width: 40px;
+        height: 40px;
+        top: calc(65vh - 20px);
+        left: calc(50% - 20px);
+    }
+    .category-news .block-ancre-actu img {
+        width: 16px;
+    }
+    /* Single new */
+    .share-social {
+        left: calc(100% - 20px)!important;
+        width: 40px!important;
+        height: 40px!important;
+    }
+    #single-article-full .share-social {
+        top: -20px;
+    }
+    .share-social img#open-share {
+        width: 40px!important;
+        height: 40px!important;
+    }
+    .single-content .title-single-content h1,
+    #single-full .single-content .title-single-content h1 {
+        font-size: 26px;
+    }
+    .single-content .content-single-content h2 {
+        font-size: 20px;
+    }
+    .single-content aside article.news-white span {
+        font-size: 10px;
+        line-height: 14px;
+    }
+    aside .zone-pub-newsletter .all-next-matche .next-matche img {
+        width: 70px;
+        top: -35px;
+        margin-bottom: -35px;
+    }
+    aside .zone-pub-newsletter .all-next-matche .next-matche p.title-next-matche {
+        font-size: 12px;
+    }
+    aside .zone-pub-newsletter .all-next-matche .next-matche p.title-next-equipe {
+        font-size: 10px;
+    }
+    aside .zone-pub-newsletter .all-next-matche .next-matche p.title-next-date {
+        font-size: 10px;
+    }
+    aside .zone-pub-newsletter .all-next-matche .next-matche p.title-next-prix {
+        font-size: 10px;
+        margin-bottom: 5px;
+    }
+    aside .zone-pub-newsletter .all-next-matche {
+        margin-top: 40px;
+    }
+    .share-social .jssocials-shares .jssocials-share {
+        margin-top: -45px;
+    }
+    .jssocials-share-link {
+        width: 40px;
+        height: 40px;
+    }
+    .share-social .jssocials img {
+        width: 16px;
+    }
+    /* Catégorie joueur */
+    .all-effectifs .zone-joueurs {
+        padding: 40px 10% 40px 4.5%;
+    }
+    .all-effectifs .zone-joueurs .title-zone-joueurs {
+        right: -20px;
+    }
+    .all-effectifs .zone-joueurs .title-zone-joueurs .content-title-joueur p {
+        font-size: 12px;
+    }
+    .all-effectifs .zone-joueurs .title-zone-joueurs .content-title-joueur hr {
+        width: 45px;
+        bottom: 7px;
+    }
+    .all-effectifs .zone-joueurs ul li img {
+        left: -23px;
+    }
+    .all-effectifs .zone-joueurs ul li .info-joueur p.prenom {
+        padding-left: 25%;
+    }
+    .millieux_de_terrain .content-title-joueur p {
+        width: 121px;
+    }
+    /* Catégorie media */
+    .cut-anim.new-cate-image h1 img {
+        left: -60px;
+        width: 40px;
+    }
+    .content-curent-news-block h3,
+    .video-voir h3 {
+        line-height: 14px;
+    }
+    .content-curent-news-block p,
+    .video-voir p {
+        margin-top: 7.5px;
+    }
+    .flex-picto-media img {
+        width: 65px;
+    }
+    .l-cate-medias article img {
+        width: 40px;
+    }
+    /* single joueur */
+    .all-effectifs .menu-categorie-joueurs,
+    .ancre-joueur {
+        display: none;
+    }
+    .identite-joueur .num_maillot {
+        font-size: 65px!important;
+    }
+    /*Calendrier */
+    .calendrier-page .category-news .block-ancre-actu {
+        top: -20px!important;
+    }
+    .calendrier-page .single-content {
+        width: 80%!important;
+    }
+}
+
+
+/*========== 1023 ==========*/
+
+@media all and (min-width: 0px) and (max-width: 1023px) {
+    ::-webkit-scrollbar {
+        width: 0px;
+    }
+.home-classement-calendrier .home-classement .home-classement-content .home-classement-score a {
+    top: 10px;
+}
+    /*========== HEADER ===========*/
+    header nav.header-top-screen ul.icon-menu li:hover p {
+    margin-top: 15px;
+}
+  .open-notif {
+    top: 35px!important;
+}
+    section.menu-full .all-ellements-menu {
+        margin-top: 120px;
+        width: 80%;
+        padding-top: 0px;
+    }
+    section.menu-full {
+        display: block;
+    }
+    section.menu-full .menu-full {
+        overflow-y: auto;
+    }
+    section.menu-full .menu-social-sidebar ul li {
+        display: inline-block;
+        margin: 15px 10px;
+    }
+    section.menu-full .menu-social-sidebar {
+        display: block;
+        height: 150px!important;
+        border-right: none;
+    }
+    section.menu-full .menu-social-sidebar .title-social {
+        height: auto;
+        position: relative;
+    }
+    section.menu-full .menu-social-sidebar .title-social p {
+        -ms-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+        width: auto;
+        text-align: center;
+        position: relative;
+        left: 0px;
+        top: 0px;
+        border-bottom: solid 1px white;
+        padding-bottom: 10px;
+        width: 280px;
+        margin: auto;
+    }
+    section.menu-full .menu-social-sidebar .title-social hr {
+        display: none;
+    }
+    /*========== HEADER NAV TOP ==========*/
+    header nav.header-top-screen .nav-other {
+        display: none;
+    }
+    header nav.header-top-screen {
+        padding-left: 50px!important;
+        padding-right: 50px!important;
+    }
+    section.menu-full .header-full-screen {
+        padding-top: 50px;
+        margin-top: 0px!important;
+    }
+    header nav.header-top-screen ul.icon-menu {
+        position: absolute;
+        right: 50px;
+        bottom: 15px;
+    }
+    header nav.header-top-screen ul.icon-menu li:last-child {
+        margin-right: 0px;
+    }
+    /*========== FOOTER ===========*/
+    /*========== PARTENAIRES ==========*/
+    .bandeauPartenaires {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+    /*========== FOOTER NAV ==========*/
+    footer nav {
+        padding: 55px 10% 80px 10%;
+    }
+    /*========== ACCUEIL ==========*/
+    /*========== ACTUALITES ==========*/
+    /*========== ACTUALITES MISE EN AVANT ==========*/
+    section.home-curent-news {
+        width: 100%;
+        padding-right: 0px;
+        padding-left: 0px!important;
+        margin: auto;
+        display: block;
+        position: relative;
+        height: 550px!important;
+        left: 0px!important;
+    }
+  
+  #home-section5 .home-curent-news{width: 100%!important;}
+    .news-black {
+        box-shadow: none!important;
+        transform: none!important;
+    }
+    section.home-curent-news article.news-black .bg-block-news-black {
+        vertical-align: middle;
+    }
+    section.home-curent-news article.news-black .content-block-news-black {
+        vertical-align: bottom;
+    }
+    section.home-curent-news article span {
+        line-height: 15px!important;
+    }
+    /*========== ASIDE LISTE ACTUALITES ==========*/
+    aside.home-liste-news {
+        width: calc(100% - 18px);
+        display: block;
+        margin: 80px auto;
+        margin-left: 18px;
+        left: 0px;
+        margin-top: 20px;
+    }
+    a.home-all-category {
+        right: 0px!important;
+        left: auto!important;
+    }
+    /*========== MEDIAS ==========*/
+    .home-medias {
+        display: block;
+    }
+    .home-medias .content-slideshow {
+        width: 550px;
+        display: flex;
+        height: calc(95% - 175px);
+        box-sizing: border-box;
+    }
+    .flex-media {
+        margin: auto auto auto 0%;
+    }
+    /*========== ASIDE MEDIAS ==========*/
+    .home-medias aside {
+        width: 90%;
+        position: relative;
+        bottom: 0px;
+        font-size: 0px;
+        text-align: center;
+        margin: 0% 5%;
+        margin-bottom: 5%;
+        height: 175px;
+        padding: 0px;
+    }
+    .home-medias .home-medias-aside-next {
+        display: inline-block;
+        width: 30%;
+        height: 175px;
+        vertical-align: middle;
+        box-shadow: none!important;
+        transform: none!important;
+    }
+    .home-medias .home-medias-aside-next .bdb {
+        opacity: 1!important;
+        background-color: white!important;
+        width: 75%;
+    }
+    .home-medias .home-medias-aside-next h2 {
+        opacity: 1;
+        line-height: 12px!important;
+    }
+    .home-medias .home-medias-aside-next:nth-child(2) {
+        margin: 0px 5%;
+    }
+    .home-medias .home-media-aside-plus {
+        display: inline-block;
+    }
+    /*========== CLASSEMENT ==========*/
+    .home-classement-calendrier .home-classement {
+        width: 100%;
+        margin-bottom: 80px;
+    }
+    /*========== CALENDRIER ==========*/
+    .home-calendrier {
+        display: block;
+        width: 100%;
+        font-size: 14px;
+        height: 100%;
+        position: relative;
+        margin-left: 0px;
+    }
+    /*========== CATEGORY ==========*/
+    #home-section5 {
+        margin: 80px auto 95px auto;
+    }
+    a.home-all-category {
+        bottom: -30px;
+        left: 18px;
+        -ms-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    /*========== PUB ==========*/
+    aside.home-aside-pub {
+        width: 100%;
+        height: 200px!important;
+        padding: 0px 15px;
+        margin: auto;
+        display: block;
+        margin-bottom: 35px;
+        position: relative;
+    }
+  aside.home-aside-pub .home-aside-single-pub {
+    height: 100%;
+    vertical-align: top;
+    margin-top: 0px!important;
+}
+    aside.home-aside-pub .zone-yellow-vertical {
+        height: 60%;
+        width: 100%;
+        left: 0px;
+        top: 20%;
+    }
+    aside.home-aside-pub .home-aside-single-pub {
+        display: inline-block;
+        width: calc(33.333% - 10px);
+        box-sizing: border-box;
+        padding: 10px;    transform: none!important;
+    }
+    aside.home-aside-pub .home-aside-single-pub:nth-child(4) {
+        margin-left: 15px;
+        margin-bottom: 0px;
+    }
+    aside.home-aside-pub .home-aside-single-pub:nth-child(2) {
+        margin-right: 15px;
+        margin-top: 0px;
+    }
+    aside.home-aside-pub .home-aside-single-pub img {
+        width: 100%!important;
+        height: auto!important;
+    }
+    /* NEWSLETTER */
+    #home-section8 .home-classement-content {
+        height: auto;
+    }
+    .zone-pub-newsletter .zone-yellow {
+        display: none;
+    }
+    .zone-pub-newsletter .home-classement-content {
+        width: 100%;
+    }
+    /*.zone-pub-newsletter a{background: none!important;}*/
+    .zone-pub-newsletter a img {
+        display: block;
+        width: 100%;
+    }
+    #home-section8 p {
+        text-align: center;
+    }
+    #home-section8 .zone-yellow {
+        top: 112.5px!important;
+    }
+    #home-section8 .home-calendrier.zone-pub-newsletter .home-classement-content {
+        margin-top: 0px!important;
+    }
+    /*========== ARTICLES ==========*/
+    /*========== ASIDE ==========*/
+    aside .zone-pub-newsletter .all-next-matche .next-matche:nth-child(1) {
+        margin-right: 0%;
+        margin-bottom: 65px;
+    }
+    aside .zone-pub-newsletter .all-next-matche .next-matche {
+        width: 100%;
+    }
+    /* CATEGORY NEWS */
+    .category-news aside.home-liste-news ul li {
+        margin-left: 0px;
+    }
+    .pagination {
+        margin-bottom: 50px!important;
+    }
+    /* Single joueur */
+    .infos-counter {
+        width: 90%;
+    }
+    /* Catégorie joueur */
+    .all-effectifs .zone-joueurs ul li img {
+        left: -18%;
+    }
+    .all-effectifs .zone-joueurs ul li {
+        width: 40%;
+        margin: 5%;
+    }
+    .all-effectifs .zone-joueurs .title-zone-joueurs .content-title-joueur {
+        margin: 0px;
+        transform: none;
+        text-align: center;
+    }
+    .all-effectifs .zone-joueurs ul {
+        width: 100%;
+    }
+    .all-effectifs .zone-joueurs {
+        padding: 10%;
+    }
+    #gardiens {
+        padding-top: 100px;
+    }
+    .all-effectifs .zone-joueurs .title-zone-joueurs {
+        top: 0px!important;
+        height: auto!important;
+        float: none;
+        width: 100%;
+        right: 0px;
+    }
+    .all-effectifs .zone-joueurs .title-zone-joueurs .content-title-joueur hr {
+        display: none;
+    }
+    .all-effectifs .zone-joueurs .title-zone-joueurs .content-title-joueur p {
+        font-size: 21px;
+        position: relative;
+        width: auto;
+        display: inline-block;
+        border-bottom: solid 1px #ffdc12;
+    }
+    .all-effectifs #millieux_de_terrain .title-zone-joueurs {
+        top: 0px!important;
+    }
+    .ancre-sous-menu-joueurs {
+        top: -43px;
+    }
+    /* Category media */
+    .category-medias {
+        height: auto;
+    }
+    .category-medias article.first-media-cate {
+        width: 100%;
+        height: 500px;
+    }
+    .category-medias article.first-media-cate:nth-child(2) {
+        margin: 5% 0px;
+    }
+    .category-medias .l-cate-medias {
+        padding-left: 0px;
+        font-size: 0px;
+        width: 100%;
+        padding-right: 0px;
+        padding-top: 5%;
+    }
+    .category-medias .l-cate-medias article {
+        display: inline-block;
+        width: 50%;
+        padding-top: 0px!important;
+        padding-bottom: 0px!important;
+        height: 400px;
+        vertical-align: top;
+    }
+    .section-two-cate-media {
+        padding: 0px;
+    }
+    .category-medias .l-cate-medias article .image-medias-screen {
+        left: 0%!important;
+        width: 100%;
+        height: 60%;
+    }
+    .category-medias .l-cate-medias article:nth-child(1) {
+        padding-right: 2.5%;
+    }
+    .category-medias .l-cate-medias article:nth-child(2) {
+        padding-left: 2.5%;
+    }
+    .category-medias .l-cate-medias article:hover .image-medias-screen {
+        left: 0%!important;
+    }
+    .category-medias .l-cate-medias article .video-voir {
+        right: 0px!important;
+        height: 40%;
+        width: 100%;
+        position: relative;
+    }
+    .category-medias .l-cate-medias article:hover .video-voir {
+        right: 0px!important;
+    }
+    .category-medias .content-curent-news-block {
+        width: 100%;
+        left: 0px;
+    }
+    .category-medias article .bg-media-video-photo {
+        height: 60%;
+    }
+    #single-full .single-content {
+        width: 80%;
+    }
+    /* menu tools */
+    #single-article header nav.header-top-screen .item-nav {
+        width: 40%;
+    }
+    #single-article header nav.header-top-screen ul.icon-menu {
+        position: relative;
+        right: 0px;
+        bottom: 0px;
+    }
+    #single-joueur header nav.header-top-screen .item-nav {
+        width: 40%;
+    }
+    #single-joueur header nav.header-top-screen ul.icon-menu {
+        position: relative;
+        right: 0px;
+        bottom: 0px;
+    }
+    /* Calendrier */
+    .nextcol1_calendrier,
+    .nextinfosligne2,
+    .nextcol2_calendrier {
+        width: 100%;
+    }
+    #tableclassement,
+    .home-classement-title {
+        width: 100%!important;
+    }
+    .principalCalendrier {
+        margin: auto;
+        margin-top: 10px;
+        width: 100%;
+        background-color: #FFFFFF;
+        border-bottom: 1px;
+        border-bottom: #999999 solid 1px;
+        display: table;
+      padding-left: 0px;
+    }
+    .col1_calendrier {
+        width: 100%;
+        height: 60px;
+        display: table;
+    }
+    .col2_calendrier {
+        width: 100%;
+        height: 60px;
+        display: table;
+        text-align: center;
+    }
+    .infosmatch1 {
+        float: none;
+        text-align: center;
+        width: 100%;
+        height: 30px;
+        font-size: 14px;
+    }
+    .infosmatch1 a {
+        font-size: 14px;
+    }
+    .equipes {
+        width: 80%;
+        height: 30px;
+        margin-top: 5px;
+        text-align: center;
+    }
+    .score {
+		width: 20%;
+        height: 30px;
+        margin-top: 15px;
+		text-align: center;
+    }
+    .infosmatch2 {
+        width: 100%;
+        height: 60px;
+    }
+    .text_score {
+        font-weight: bold;
+        margin-left: 0px;
+        font-size: 16px;
+        text-align: center;
+    }
+    .tab {
+        font-size: 0.7em;
+    }
+    .text_infosmatch1 {
+        text-align: middle;
+        font-size: 16px;
+    }
+    .text_equipes {
+        font-size: 16px;
+    }
+    .text_equipes a {
+        font-size: 16px;
+    }
+    .text_slash2 {
+        font-size: 16px;
+    }
+    .text_adv a {
+        color: #000000;
+    }
+    .all-btn {
+        width: 100%;
+    }
+    .blue-btn a {
+        font-size: 10px;
+        color: #000;
+        text-decoration: none;
+        text-align: center;
+        display: block;
+        /* important */
+    }
+    .blue-btn,
+    .first-link {
+        -webkit-transition: 0.3s;
+        -moz-transition: 0.3s;
+        -ms-transition: 0.3s;
+        -o-transition: 0.3s;
+        transition: 0.3s;
+    }
+    .blue-btn {
+        float: none;
+        display: inline-block;
+        height: 60px;
+        font-weight: 400;
+        overflow: hidden;
+        width: 65px;
+        padding-top: 9px;
+        margin-left: 1px;
+    }
+    .blue-btn:hover {
+        background-color: #ffcc00;
+    }
+    .nextCalendrier {
+        margin: auto;
+        margin-top: 0px;
+        width: 100%;
+        height: auto!important;
+        border-bottom: 1px;
+        border-bottom: #009f00 solid 1px;
+        background-color: #fcdb29;
+        margin-bottom: 50px;
+    }
+    .nextinfosligne1 {
+        text-align: center;
+        box-sizing: border-box;
+        padding-left: 0px!important;
+        float: none;
+        width: 100%;
+        height: 40px;
+        padding: 2px 0 0 10px;
+    }
+    .nextinfosligne2 {
+        padding-left: 0px!important;
+    }
+    a.next_equipe_adv {
+        font-size: 18px;
+        font-weight: 400;
+        color: #000000;
+    }
+    a:hover.next_equipe_adv {
+        font-size: 18px;
+        font-weight: 400;
+        text-decoration: underline;
+        color: #000000;
+    }
+    a.next_equipe_fcn {
+        font-size: 18px;
+        font-weight: 400;
+    }
+    a:hover.next_equipe_fcn {
+        font-size: 18px;
+        font-weight: 400;
+        text-decoration: underline;
+    }
+    .next_competition {
+        text-align: middle;
+        font-size: 1em;
+        font-weight: 700;
+    }
+    a.next_competition {
+        text-align: middle;
+        font-weight: 700;
+    }
+    .next_slash {
+        text-align: middle;
+    }
+    .next_date {
+        text-align: middle;
+        font-size: 16px;
+        font-weight: 100;
+    }
+    .next_horaire {
+        text-align: middle;
+        font-weight: 100;
+    }
+    .nextinfosligne2 {
+        text-align: center;
+        box-sizing: border-box;
+        float: none;
+    }
+    .nextcol2_calendrier,
+    .nextcol1_calendrier {
+        float: none;
+    }
+    .nextinfos_diffuseur {
+        padding: 10px;
+        width: 100%;
+        float: none;
+        box-sizing: border-box;
+    }
+    .nextcol2_calendrier {
+        text-align: center;
+    }
+
+/* feuille de match */
+
+.principal_fdm {
+    margin-top: 10px;
+    width: 100%;
+    background-color: #FFFFFF;
+}
+
+.entete1_fdm {
+    float: left;
+    width: 35%;
+	text-align:center;
+	padding-top:10px;
+}
+
+.entete2_fdm {
+    float: left;
+    width: 30%;
+	text-align:center;
+	padding-top:10px;
+}
+
+.entete3_fdm {
+    float: left;
+    width: 35%;
+	text-align:center;
+	padding-top:10px;
+}
+
+.text_entete_fdm {
+    text-align: center;
+    font-size: 12px;
+}
+
+.equipe1_fdm {
+    float: left;
+    width: 45%;
+	padding-right:10px;
+	text-align:right;
+}
+
+.equipe2_fdm {
+    float: left;
+    width: 45%;
+	padding-left:10px;
+	text-align:left;
+}
+
+.text_equipe1_fdm {
+    text-align: right;
+    font-size: 12px;
+}
+
+.text_equipe1_fdm a {
+    text-align: right;
+    font-size: 12px;
+	color: #009f00;
+	text-decoration: none;
+}
+
+.text_equipe2_fdm {
+    text-align: left;
+    font-size: 12px;
+}
+
+.text_equipe2_fdm a {
+    text-align: left;
+    font-size: 12px;
+	color: #009f00;
+	text-decoration: none;
+}
+
+.barre_titre_fdm {
+    margin-top:20px;
+	width: 100%;
+	height:30px;
+	background-color:#cccccc;
+}
+
+.text_barre_titre_fdm {
+    text-align: center;
+    font-size: 18px;
+	font-weight:400;
+	padding-left:15px;
+}
+  
+  #wrap-news-notif{    left: calc(100% - 270px);
+    position: absolute;}
+  .arrow-flech-icon{text-align: right;}
+  .arrow-flech-icon img{
+    margin-right: 51px;
+}
+  a.all-category-single-aside{bottom: -30px!important;}
+}
+
+
+/*========== 768 ==========*/
+
+@media all and (min-width: 0px) and (max-width: 768px) {
+
+.bandeauPartenaires2 {
+    display: block;
+    height: 260px;
+}
+.bandeauPartenaires2 .principaux {
+    width:70%;
+    padding-left: 12%;
+    margin:auto;
+}
+.bandeauPartenaires2 .officiels {
+    width:100%;
+    padding-left: 12%;
+    margin:auto;
+}
+.bandeauPartenaires2 .principaux .event {
+display: inline-block;
+    width: 75px;
+    margin: 10px 10px;
+}
+.bandeauPartenaires2 .officiels .event {
+display: inline-block;
+    width: 40px;
+    padding-top: 15px;
+    margin: -30px 10px;
+}
+  
+  #single-joueur main.open-tools-page{left: -280px;}
+    #single-article main.move-main #single .image-single{left: 0px!important;}
+    #single-joueur main.move-main #single .image-single{left: 0px!important;}
+ 
+    /* Header */
+  #wrap-resp-picto aside.home-liste-news ul li .home-infos-news h2{color: white!important;}
+  #wrap-resp-picto #wrap-news-notif{background: none;}
+  #wrap-resp-picto #wrap-news-notif .home-liste-news{background: none;}
+  #wrap-resp-picto #wrap-news-notif .home-liste-news li{background: none;}
+  #wrap-resp-picto #wrap-news-notif{display: block;opacity: 1;left: 0px;top: 0px;position: relative;width: auto;}
+  #wrap-resp-picto #wrap-news-notif ul{padding: 0px;}
+  #wrap-news-notif .home-liste-news li img{display:none!important;}
+  
+  #wrap-resp-picto #wrap-news-notif .home-liste-news{text-align: center;}
+  #wrap-resp-picto #wrap-news-notif .home-liste-news li img{display:block!important;width: 100%;left: 0px;margin-top: 0px;height: auto!important;}
+  
+  
+  
+  #wrap-news-notif .home-liste-news li span{display: none;}
+  #wrap-resp-picto #wrap-news-notif #title-notif{display: none;}
+  
+  #notif-respon span{width: 15px;
+    height: 15px;
+    background: white;
+    color: rgb(38, 37, 36)!important;
+    font-size: 10px!important;
+    margin-top: 0px;
+    border-radius: 100%;
+    text-align: center;
+    line-height: 16px;
+    right: -5px;
+    transition: all 0.25s;
+    position: relative;
+    bottom: 1px;}
+  
+        #single-article .same-height, #single-joueur .same-height{display: none!important;}
+    body#single-article header .selected-none .nav-fcnantes {
+        display: inline-block!important;
+    }
+    header nav.header-top-screen ul.icon-menu {
+        display: none!important;
+    }
+    header nav.header-top-screen ul.icon-menu li #Capa_1 {
+        display: block!important;
+    }
+    .content-all-svg {
+        display: none;
+    }
+    #close-tools {
+        display: inline-block;
+        vertical-align: middle;
+        width: 24px;
+    }
+    #Capa_1{cursor: pointer;}
+    .menu-tools-empsale {
+        width: auto!important;
+        padding: 0px!important;
+        background: none;
+        border: none;
+        outline: none;
+        cursor: pointer;
+    }
+    .menu-tools-empsale img {
+        width: 20px;
+    }
+    #button-open-engrenage {
+        display: inline-block!important;
+        width: 33.333%;
+        text-align: right;
+        vertical-align: middle;
+    }
+    #button-open-engrenage svg {
+        height: 20px;
+        height: 20px;
+        stroke: white;
+        fill: white;
+        transition: all 0.25s;
+    }
+    #wrap-resp-picto {
+        display: block!important;
+        background-color: #2a2a29;
+        position: fixed;
+        right: 0px;
+        height: 100vh;
+        top: 0px;
+        width: 280px;
+        box-shadow: 20px 0 20px -10px #000000 inset, -8px 0 8px -10px rgba(0, 0, 0, 0) inset;
+        right: -280px;
+        transition: all 0.75s ease-in-out;
+        overflow: auto;
+      z-index: 99;
+    }
+    #close-main-click{
+    position: fixed;
+    top: 0px;
+    right: calc(-100% - -280px);
+    height: 100%;
+    width: calc(100% - 280px);transition: all 0.75s ease-in-out;
+}
+    .add-click-home-tools{right:280px!important;transition: all 0.75s ease-in-out;}
+    #wrap-resp-picto .header-top-screen {
+        background: none!important;
+        padding-left: 35px!important;
+        padding-right: 35px!important;
+    }
+    .open-tools {
+        /*right: 0px!important;
+        transition: all 0.75s ease-in-out;*/
+    }
+    .open-tools-page {
+
+          transform: translate(-280px);
+    }
+  
+    #wrap-resp-picto .nav-fcnantes.item-nav {
+        width: calc(100% - 24px)!important;
+        text-align: left;
+    }
+    #wrap-resp-picto .menu img {
+        width: 20px;
+    }
+    #wrap-resp-picto ul {
+        padding: 35px;
+        margin: 0px;
+        box-sizing: border-box;
+    }
+    #wrap-resp-picto ul li {
+        list-style: none;
+        border-bottom: solid 1px white;
+        margin: 10px 0px;
+        padding: 10px 0px;
+    }
+    #wrap-resp-picto ul li a {
+        display: inline-block;
+        vertical-align: middle;
+    }
+    #wrap-resp-picto ul li span {
+        color: white;
+        font-size: 12px;
+        font-weight: 100;
+        display: inline-block;
+        vertical-align: middle;
+    }
+    #wrap-resp-picto svg {
+        height: 20px;
+    }
+    #wrap-resp-picto li .content-svg-tools {
+        display: inline-block;
+        vertical-align: middle;
+        width: 35px;
+    }
+    #wrap-resp-picto li:last-child form {
+        display: inline-block;
+        vertical-align: middle;
+    }
+    #wrap-resp-picto li:last-child form input[type=text] {
+        color: white;
+        background: none;
+        border: none;
+        font-size: 12px;
+        font-weight: 100;
+        outline: none;
+    }
+    #wrap-resp-picto li:last-child form input::-webkit-input-placeholder {
+        color: white;
+    }
+    /*========== FOOTER ===========*/
+    /*========== PARTENAIRES ==========*/
+    /*========== FOOTER NAV ==========*/
+    footer nav {
+        text-align: center;
+        padding: 50px 10% 75px 10%;
+    }
+    /*========== ACCUEIL ==========*/
+    /*========== SLIDESHOW ==========*/
+    .content-slideshow {
+        width: 400px;
+    }
+    /*========== MEDIAS ==========*/
+    /*========== ASIDE MEDIAS ==========*/
+    .home-medias aside {
+        height: 150px;
+    }
+    .home-medias .home-medias-aside-next {
+        height: 150px;
+    }
+    .home-medias .content-slideshow {
+        height: calc(95% - 150px);
+    }
+    /* Single news */
+    #single .image-single {
+        width: 100%;
+        height: 75vh;
+        position: relative!important;
+    }
+    #single .image-single .cut-anim {
+        height: 75vh;
+    }
+    .share-social {
+        top: -20px!important;
+        right: calc(50% - -5px);
+        left: auto!important;
+    }
+    #go-home{ right: calc(50% - 45px)!important;}
+    #single-joueur .share-social,
+    #single-article .share-social {
+        top: initial!important;
+        bottom: -20px!important;
+    }
+    #single .single-content {
+        width: 100%;
+        left: 0%;
+        margin-top: 40px;
+    }
+    .single-content .title-single-content p {
+        margin-bottom: 8%;
+    }
+    .text,
+    .single-content .content-single-content {
+        text-align: justify;
+    }
+    .single-content .content-single-content a {
+        text-align: left!important;
+    }
+    .single-content aside article.news-white,
+    .zone-pub-newsletter a,
+    aside .zone-pub-newsletter .all-next-matche .next-matche {
+        box-shadow: 0px 0px 20px rgba(42, 42, 41, 0.2)!important;
+    }
+    .jssocials-share-count {
+        margin: 0px!important;
+    }
+    /* single joueur */
+    .nom-joueur-rotate {
+        transform: rotate(0deg);
+        bottom: 10%!important;
+        right: 5%!important;
+    }
+    .infos-counter {
+        text-align: center;
+        width: 100%;
+    }
+    #single-joueur .single-content .title-single-content {
+        z-index: 9;
+    }
+    #single-article .single-content .title-single-content {
+        z-index: 9;
+    }
+    /* single full */
+    #single-full .single-content p.chapeau-single-content {
+        padding-right: 15%;
+    }
+    #single-full .single-content {
+        width: 100%!important;
+        left: 0%;
+        padding: 5%;
+        box-sizing: border-box;
+    }
+    #single-article-full #single-full article.all-next-matche {
+        padding-top: 40px;
+        margin-top: 0px;
+    }
+    #single-full .single-content aside .zone-pub-newsletter .all-next-matche .next-matche {
+        width: 100%;
+        margin: 0px!important;
+        margin-bottom: 65px!important;
+    }
+    #single-full .single-content aside .zone-pub-newsletter .all-next-matche .next-matche:last-child {
+        margin-bottom: 0px!important;
+    }
+    #single-full .single-content aside article.news-white {
+        width: 100%;
+        margin-top: 20px!important;
+    }
+    #single-full .single-content aside .zone-pub-newsletter {
+        margin-bottom: 60px!important;
+    }
+    #single-full .single-content aside article.news-white:nth-child(1) {
+        margin-right: 0%;
+    }
+    /* menu tools */
+    #single-article header nav.header-top-screen .item-nav {
+        width: 33.333%;
+    }
+    #single-article header nav.header-top-screen ul.icon-menu {
+        position: relative;
+        right: 0px;
+        bottom: 0px;
+    }
+    #single-joueur header nav.header-top-screen .item-nav {
+        width: 33.333%;
+    }
+    #single-joueur header nav.header-top-screen ul.icon-menu {
+        position: relative;
+        right: 0px;
+        bottom: 0px;
+    }
+    body#single-joueur header .selected-none .nav-fcnantes {
+        display: inline-block;
+    }
+    
+    
+    header nav.header-top-screen .item-nav button{width: 30px;}
+    header nav.header-top-screen .item-nav button span{margin: 4px 0px;}
+    header nav.header-top-screen .item-nav button span#line-3{width: 20px;}
+        aside .zone-pub-newsletter .all-next-matche .next-matche p, 
+    aside .zone-pub-newsletter .all-next-matche .next-matche img, 
+    aside .zone-pub-newsletter .all-next-matche .next-matche a{       -webkit-transform: translateZ(0px)!important;
+transform: translateZ(0px)!important;}
+  a.all-category-single-aside{box-shadow: none!important;}
+}
+
+
+/*========== 700 ==========*/
+
+@media all and (min-width: 0px) and (max-width: 700px) {
+    /*========== HEADER ===========*/
+    section.menu-full .all-ellements-menu nav {
+        width: 100%;
+        display: block;
+    }
+    section.menu-full .bande-menu-full {
+        width: 10px;
+        position: fixed;
+        left: auto;
+    }
+    section.menu-full .all-ellements-menu {
+        margin-left: 30px;
+    }
+    header nav.header-top-screen {
+        padding-left: 15px!important;
+        padding-right: 15px!important;
+    }
+    section.menu-full .filtre-menu {
+        position: fixed;
+        left: auto;
+    }
+    section.menu-full .background-menu-full {
+        transform: scale(1);
+    }
+    section.menu-full .all-ellements-menu nav ul li {
+        line-height: 20px!important;
+    }
+    section.menu-full .all-ellements-menu nav ul li a {
+        font-size: 16px!important;
+        line-height: 20px!important;
+    }
+    section.menu-full .menu-social-sidebar {
+        margin-top: 40px;
+    }
+    .cache-nav {
+        max-height: 0;
+        overflow: hidden;
+        transition: all 0.5s;
+    }
+    .open-ul-nav {
+        max-height: 500px!important;
+    }
+    /*========== FOOTER ===========*/
+    /*========== PARTENAIRES ==========*/
+    /*========== FOOTER NAV ==========*/
+    footer nav ul {
+        width: 50%;
+    }
+    footer nav ul:nth-child(1),
+    footer nav ul:nth-child(2) {
+        margin-bottom: 25px;
+    }
+    /*========== ACCUEIL ==========*/
+    /* slider */
+    .owl-dots {
+        bottom: 10px!important;
+    }
+    /*========== ACTUALITES ==========*/
+    /*========== ACTUALITES MISE EN AVANT ==========*/
+    .bg-block-news-black .filtre-slideshow {
+        display: none;
+    }
+    .home-news {
+        margin: auto;
+        margin-top: 20px;
+    }
+    section.home-curent-news {
+        height: auto!important;
+    }
+    section.home-curent-news .home-curent-news-block {
+        width: 100%;
+        height: 50%;
+    }
+    section.home-curent-news .home-curent-news-left {
+        margin-right: 0px;
+        margin-bottom: 20px;
+    }
+    section.home-curent-news .home-curent-news-right {
+        margin-left: 0px;
+    }
+    #border-first-news-block {
+        top: -10px!important;
+        left: -10px!important;
+    }
+    section.home-curent-news article,
+    section.home-curent-news .home-curent-news-left article.news-black {
+        height: 320px!important;
+    }
+    section.home-curent-news article .cut-scale {
+        height: 60%;
+        width: 100%;
+    }
+    .only-picture-sous {
+        height: 100%!important;
+    }
+    #first-news-block .only-picture .overflow-hidden {
+        height: 100%!important;
+    }
+    section.home-curent-news .home-curent-news-left article.news-black {
+        width: 100%;
+        left: 0%;
+    }
+    section.home-curent-news .home-curent-news-right article.news-black {
+        width: 100%;
+        right: 0%;
+    }
+    section.home-curent-news .home-curent-news-right article .bg-block-news-black {
+        height: 60%;
+        width: 100%;
+        top: 0px;
+        right: 0px;
+        position: absolute;
+
+    }
+    section.home-curent-news article h2, section.home-curent-news article span,  section.home-curent-news article .background-news{       -webkit-transform: translateZ(0px)!important;
+transform: translateZ(0px)!important;}
+    section.home-curent-news .home-curent-news-left article.news-black .bg-block-news-black {
+        height: 60%;
+        width: 100%;
+        top: 0%;
+        left: 0%;
+    }
+    section.home-curent-news .home-curent-news-left article.news-black .content-block-news-black {
+        width: 100%;
+        padding-right: 0%;
+        top: 0px;
+        padding: 25px;
+        height: 40%;
+    }
+    section.home-curent-news .home-curent-news-left article .content-block-news-black span,
+    section.home-curent-news .home-curent-news-left article .content-block-news-black h2 {
+        left: 0px;
+        width: auto!important;
+    }
+    section.home-curent-news .home-curent-news-right article .content-block-news-black {
+        color: white;
+        width: 100%;
+        padding: 25px;
+        top: 60%;
+        position: relative;
+        height: 40%;
+    }
+    .content-block-news-white {
+        width: 100%;
+        padding: 25px!important;
+        height: 40%;
+    }
+    section.home-curent-news .home-curent-news-right article .content-block-news-black span,
+    section.home-curent-news .home-curent-news-right article .content-block-news-black h2 {
+        width: 100%;
+        text-align: left;
+    }
+    section.home-curent-news .home-curent-news-left article#first-news-block .content-curent-news-block {
+        width: 100%;
+        left: 0;
+        height: 40%;
+    }
+    #border-first-news-block {
+        display: none;
+    }
+    #first-news-block .overflow-hidden {
+        height: 60%;
+    }
+    #first-news-block.only-picture .overflow-hidden {
+        height: 100%!important;
+    }
+    /*========== CALENDRIER ==========*/
+    .carousel-calendrier .owl-item {
+        transform: scale(1.0)!important;
+    }
+    /*========== MEDIAS ==========*/
+    /*========== ASIDE MEDIAS ==========*/
+    .home-medias .content-slideshow {
+        height: calc(95% - 125px);
+    }
+    .home-medias aside {
+        height: 125px;
+    }
+    .home-medias .home-medias-aside-next {
+        height: 125px;
+    }
+    .home-medias .home-media-aside-plus a img {
+        display: none;
+    }
+    /*========== CATEGORY ==========*/
+    #home-section5 .home-curent-news article.news-black .content-block-news-black h3,
+    #home-section5 .home-curent-news article.news-black .content-block-news-black-2 h3 {
+        left: 0px;
+        width: 100%;
+        text-align: left;
+    }
+    /* NEWSLETTER */
+    #home-section8 p {
+        width: auto;
+    }
+    /* Category news */
+    .category-news {
+        padding-top: 50px;
+    }
+    .category-news aside.home-liste-news {
+        margin-top: 0px!important;
+    }
+    /* Single news */
+    .single-content aside article.news-white {
+        height: 320px!important;
+    }
+    .single-content aside article.news-white .cut-scale {
+        height: 60%;
+        width: 100%;
+    }
+    .single-content aside article.news-white h2 {
+        font-size: 12px!important;
+    }
+    .single-content .title-single-content h1 {
+        width: 75%;
+    }
+    .single-content aside article.news-white p {
+        margin-top: 7.5px!important;
+    }
+    .single-content p.chapeau-single-content {
+        padding-right: 0%;
+        text-align: justify;
+    }
+    #single-full .single-content p.chapeau-single-content{
+        padding-right: 0%;
+    }
+    #single-article-full .cut-anim, .cut-anim.new-cate-image{
+        height: calc(100vh - 40px)!important;
+    }
+    .category-news .block-ancre-actu{
+        top: calc(100vh - 60px);
+    }
+    .all-effectifs .zone-joueurs{
+        top: 45px;
+    }
+    /* Catégorie joueur */
+    /* Catégorie medias */
+    .category-medias {
+        width: 100%;
+    }
+    .flex-picto-media img {
+        width: 40px;
+    }
+    .category-medias article.first-media-cate {
+        height: 320px;
+    }
+    .category-medias .l-cate-medias article {
+        width: 100%;
+        padding: 0px!important;
+        height: 320px;
+        margin-bottom: 20px;
+    }
+    .category-medias .l-cate-medias {
+        padding: 0px!important;
+        margin-top: 20px;
+    }
+    .section-two-cate-media .l-cate-medias {
+        margin-top: 0px;
+    }
+    .section-two-cate-media .l-cate-medias article:nth-child(2) {
+        margin-bottom: 0px;
+    }
+    .category-medias article.first-media-cate:nth-child(2) {
+        margin: 20px 0px !important;
+    }
+    /* Calendrier */
+    .col2_calendrier {
+        float: none!important;
+        margin: 10px auto;
+        display: block;
+        margin-bottom: 0px;
+    }
+    .col1_calendrier {
+        width: 100%;
+        float: none!important;
+    }
+    .principalCalendrier {
+        height: auto;
+    }
+    .score {
+        width: 50px;
+    }
+    .nextcol1_calendrier {
+        float: none;
+        width: 100%;
+    }
+    .nextcol2_calendrier {
+        float: none!important;
+        margin: auto;
+        margin-top: 10px;
+        display: block;
+    }
+    .nextCalendrier {
+        height: auto;
+    }
+}
+
+
+/*========== 500 ==========*/
+
+@media all and (min-width: 0px) and (max-width: 500px) {
+  
+  body#accueil main{overflow-x: hidden;}
+  
+    /* HEADER */
+    header nav.header-top-screen {
+        padding-top: 15px;
+    }
+    section.menu-full .menu-social-sidebar {
+        padding: 0px 20px;
+    }
+    section.menu-full .menu-social-sidebar .title-social p {
+        width: 200px;
+    }
+    section.menu-full .all-ellements-menu nav h2 {
+        font-size: 18px;
+    }
+    section.menu-full .all-ellements-menu nav ul {
+        margin-bottom: 10px;
+    }
+    section.menu-full .all-ellements-menu {
+        margin-top: 80px;
+    }
+    section.menu-full .menu-social-sidebar {
+        margin-top: 0px;
+    }
+    header .menu-full .item-nav {
+        width: 50%!important;
+    }
+    header .menu-full .nav-fcnantes {
+        text-align: right!important;
+    }
+    section.menu-full .header-full-screen {
+        padding-top: 15px;
+    }
+    .input_menu_open {
+        width: 50px!important;
+    }
+    header nav.header-top-screen {
+        padding-left: 12px!important;
+        padding-right: 12px!important;
+    }
+    header nav.header-top-screen ul.icon-menu {
+        margin-left: 0px;
+    }
+    header nav.header-top-screen .item-nav #name-button-burger-nav {
+        display: none;
+    }
+    /*header nav.header-top-screen .item-nav #name-button-burger-nav{margin-left: 5px;}*/
+    .nav-fcnantes #name-nav {
+        font-size: 12px!important;
+    }
+    .nav-fcnantes img {
+        width: 35px!important;
+    }
+    .nav-fcnantes img {
+        margin-right: 0px;
+    }
+    /*========== FOOTER ===========*/
+    /*========== FOOTER NAV ==========*/
+    footer nav ul {
+        width: 100%;
+    }
+    footer nav ul:nth-child(3) {
+        margin-bottom: 25px;
+    }
+    /*========== ACCUEIL ==========*/
+    /*========== SLIDESHOW ==========*/
+    .content-slideshow {
+        text-align: center;
+        width: auto;
+        padding: 0px 30px;
+        margin: auto;
+    }
+    .content-slideshow h1 {
+        width: auto;
+        text-align: center;
+        font-size: 21px;
+    }
+    .content-slideshow p {
+        display: none;
+    }
+    p.exploit-joueur,
+    h2.name-best-joueur {
+        display: block!important;
+        width: 100%;
+    }
+    /*========== ACTUALITES ==========*/
+    /*========== CLASSEMENT ==========*/
+    .home-classement .zone-yellow {
+        display: none;
+    }
+    .home-classement-calendrier .home-classement .home-classement-content {
+        width: 100%;
+    }
+    /*========== CALENDRIER ==========*/
+    .home-classement-calendrier .home-classement .home-classement-content {
+        padding: 0px 5%;
+    }
+    /*========== MEDIAS ==========*/
+    /*========== ASIDE MEDIAS ==========*/
+    .home-medias .content-slideshow {
+        height: calc(97% - 26px);
+        width: auto;
+    }
+    .flex-media {
+        margin: auto;
+    }
+    .home-medias aside {
+        height: auto;
+        text-align: right;
+    }
+    .home-medias .home-medias-aside-next {
+        height: auto;
+        width: auto;
+    }
+    .home-medias .home-media-aside-plus a p {
+        position: relative;
+        right: 0px;
+    }
+    .home-medias .home-media-aside-plus a {
+        padding: 0px;
+    }
+    .home-medias .home-medias-aside-next {
+        width: 50%;
+        border: none!important;
+    }
+    .home-medias .home-medias-aside-next:nth-child(1),
+    .home-medias .home-medias-aside-next:nth-child(2) {
+        display: none;
+    }
+    .home-medias .content-slideshow h1 {
+        padding-bottom: 15px;
+    }
+    /*========== CATEGORY ==========*/
+    #home-section5 a.home-all-category {
+        bottom: -50px;
+    }
+    /*========== PUB ==========*/
+    aside.home-aside-pub {
+        padding: 0px;
+        text-align: center;
+        height: auto!important;
+        width: 100%;
+        display: block;
+        position: inherit!important;
+        padding-right: 0px;
+        top: auto;
+        margin-bottom: 80px;
+    }
+  aside.home-aside-pub .home-aside-single-pub:nth-child(4){margin-left: 0px;
+  }
+
+  #home-section5 .content-bouton-pub{position: relative;    margin-bottom: 5px;
+    margin-top:50px;}
+    aside.home-aside-pub .zone-yellow-vertical {
+        display: none;
+    }
+    aside.home-aside-pub .home-aside-single-pub {
+        width: 100%;
+    }
+    /* CATEGORY ACTU */
+    .cut-anim.new-cate-image h1 {
+        font-size: 25px;
+        bottom: 24px;
+        text-align: center;
+        right: auto;
+        width: 100%;
+    }
+    /* single news */
+    #single .image-single {
+        height: 65vh;
+    }
+    #single .image-single .cut-anim {
+        height: 65vh;
+    }
+    .single-content .title-single-content p {
+        margin-bottom: 20px;
+    }
+    #single .single-content {
+        margin-top: 0px;
+        padding-top: 56px;
+    }
+    /* single joueur */
+    .nom-joueur-rotate {
+        font-size: 35px;
+    }
+    .single-new-galerie {
+        width: 95%;
+        margin: auto;
+    }
+    /* Catégorie joueur */
+    .all-effectifs .zone-joueurs ul li {
+        width: 80%;
+        margin: 5% 10%;
+    }
+    .all-effectifs .zone-joueurs .title-zone-joueurs {
+        margin-bottom: 10%;
+    }
+    .content-joueur-select {
+        text-align: center;
+    }
+    h2.name-best-joueur {
+        margin-left: 0px!important;
+    }
+    p.exploit-joueur {
+        top: 17px;
+        margin-bottom: 50px!important;
+    }
+    /* Calendrier */
+    .principalCalendrier,
+    .nextCalendrier {
+        width: 100%;
+        box-sizing: border-box;
+    }
+    .equipes {
+        min-width: auto;
+    }
+    .footer-calendrier a {
+        font-size: 12px;
+    }
+    .col1_calendrier {
+        display: block;
+        height: auto;
+    }
+    .score {
+        display: block;
+    }
+    .single-new-galerie .owl-nav .owl-prev img {
+        margin-left: -14px;
+    }
+    .single-new-galerie .owl-nav .owl-next img {
+        margin-right: -14px;
+    }
+    p.exploit-joueur span:nth-child(2){text-align: center;}
+  .cut-anim.new-cate-image h1{padding-left: 0px;}
+  
+  
+  
+  #tv-listing .cut-anim.new-cate-image h1 img {    position: relative;
+    display: block;
+    text-align: center;
+    margin: auto;
+    left: 0px;
+    margin-bottom: 20px;}
+  
+  aside.home-aside-pub .home-aside-single-pub img {max-width: 40%;}
+}
+
+
+/* SMARTPHONE PAYSAGE */
+
+@media all and (min-height:0px) and (max-height: 450px) {
+    header nav.header-top-screen {
+        padding-top: 0px!important;
+    }
+    .active .content-slideshow p {
+        display: none;
+    }
+    .home-medias .content-slideshow {
+        height: 100%;
+        display: flex;
+    }
+    .home-medias aside {
+        display: none;
+    }
+}
