@@ -1,10 +1,14 @@
+div.image-full-slider + div {
+    padding: 15% 5%;
+}
+
 .main {
     margin: 10% auto 0 auto;
     /*overflow: scroll;*/
-    width: 80vw;
+    /*width: 95%;*/
     position: relative;
     background: rgba(0, 0, 0, 0.5);
-    padding: 30px 20px;
+    padding: 40px 50px;
 }
 
 .main h1 {
@@ -4298,6 +4302,11 @@ table#referees .sixth-col{
     background: linear-gradient(top,  rgb(249, 21, 23) 0%,rgba(179,39,20,1) 100%); /* W3C */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff6633', endColorstr='#b32714',GradientType=0 ); /* IE6-8 */
 }
+#h2h .heading div:nth-of-type(2){
+    position: absolute;
+    right: 0;
+    left: 0;
+}
 #h2h .heading .team1{
     position:absolute;
     left:10px;
@@ -4313,34 +4322,32 @@ table#referees .sixth-col{
     left:40px;
 }
 #h2h .heading .team1-goals{
-    position:absolute;
-    left:46%;
+    position: relative;
+    /* left: 46%; */
     font-size: 30px;
+    margin: 0 1%;
 }
-#h2h .heading .team1-goals:after{
-    position:absolute;
-    content: "-";
-    left: 190%;
-}
-#h2h .heading .team2-goals{
-    position:absolute;
-    right:46%;
+#h2h .heading .team2-goals {
+    /* position: absolute; */
+    right: 46%;
     font-size: 30px;
+    margin: 0 1%;
 }
 #h2h .heading .team2-title{
     position:absolute;
     right:40px;
 }
 #h2h li {
-    list-style:none;
-    width:100%;
-    height:26px;
-    position:relative;
-    color:#fff;
-    z-index:9;
-    border-bottom:solid 1px #fff;
+    text-shadow: 1px 1px #9daebf;
+    list-style: none;
+    width: 100%;
+    height: 26px;
+    position: relative;
+    color: rgb(72, 80, 76);
+    z-index: 9;
+    border-bottom: solid 1px #fff;
     margin: 5px 0;
-
+    font-size: larger;
 }
 #h2h li .team1{
     height:26px;

@@ -1270,7 +1270,9 @@ display: inline-block;
 /*========== BANDEAU PARTENAIRES ==========*/
 
 .bandeauPartenaires {
-    background-color: white;
+    background-image: url("../img/partners-background.jpg");
+    background-size: cover;
+    background-position: center;
     text-align: center;
     padding-top: 55px;
     padding-bottom: 20px;
@@ -1287,7 +1289,17 @@ display: inline-block;
     width: 155px;
     margin: 10px 30px;
 }
-
+.bandeauPartenaires .event:after {
+    position: absolute;
+    border: 3px solid red;
+    content: '';
+    width: 8%;
+    /* left: 50%; */
+    /* right: 0; */
+    /* left: 50%; */
+    transform: translate(-50%,-50%);
+    display: none;
+}
 .bandeauPartenaires a {
     display: block;
     margin: auto;
@@ -1303,6 +1315,7 @@ display: inline-block;
     /*-ms-filter: grayscale(100%);*/
     /*-o-filter: grayscale(100%);*/
     transition: all 0.25s;
+    height: 100%;
 }
 
 .bandeauPartenaires a:hover img {
