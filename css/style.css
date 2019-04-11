@@ -1,6 +1,10 @@
 /* FONT POPPINS */
 
 /* devanagari */
+ul li {
+font-weight: 800;
+color:red;
+}
 @font-face {
   font-family: 'Poppins';
   font-style: normal;
